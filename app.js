@@ -34,78 +34,25 @@ app.get('/listUsuarios', function (req, res) {
 });
 
 /*
-    ¡ATENCIÓN EN ESTA PARTE!
+    [03]
 */
 
-/*app.get('/dona/:id', function(req, res) {
-
-    fs.readFile(__dirname + "/" + "donuts.json", 'utf8', function(err, texto) {
-
-        var obj = JSON.parse(texto);
-        var idDona = req.params.id;
-
-        var arrDonas = obj.items.item;
-
-        var dona = {};
-
-        for(i in arrDonas) {
-            console.log(arrDonas[i].name);
-            if(arrDonas[i].id == idDona) {
-                dona = arrDonas[i];
-            }
-        }
-
-        res.render('formDona', {'donut':dona});
-    });
-});*/
+app.post('/saveUser', function (req, res) {});
 
 /*
-    ¡ATENCIÓN EN ESTA PARTE!
+    [04]
 */
 
-/*app.post('/dona/:id', urlencodedParser, function(req, res) {
-
-    var dona = {
-        'id': req.params.id,
-        'name': req.body.name,
-        'type': req.body.type,
-        'ppu': req.body.ppu
-    }
-
-    console.log(dona);
-
-    fs.readFile( __dirname + "/" + "donuts.json", 'utf8', function(err, texto) {
-
-        var obj = JSON.parse(texto);
-        var arrDonas = obj.items.item;
-        var updateProcess = false;
-
-        for(i in arrDonas) {
-            if(arrDonas[i].id == dona.id) {
-                
-                dona.batters = arrDonas[i].batters;
-                dona.topping = arrDonas[i].topping;
-
-                arrDonas[i] = dona;
-                updateProcess = true;
-            }
-        }
-
-        obj.items.item = arrDonas;
-
-        fs.writeFile('donuts.json', JSON.stringify(obj, null, 4));
-
-        if(updateProcess)
-            res.send('Datos actualizados con éxito');
-        else
-            res.send('Error al actualizar datos');
-    });
-});*/
+app.delete('/deleteUser', function (req, res) {});
 
 /*
-    []
+    [05]
 */
 
 var server = app.listen(8081, function () {
-	console.log("Server running at http://localhost:8081")
+    
+    var host = server.address().address;
+    var port = server.address().port;
+    
+	console.log("Server running at http://%s:%s", host, port);
 });
