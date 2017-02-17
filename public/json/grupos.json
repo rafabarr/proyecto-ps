@@ -1,0 +1,568 @@
+{
+   "alianzasMovimientosPartidos":[
+      {
+         "tipo":"alianza",
+         "grupos":[
+            {
+               "nombre":"CENTRO DEMOCRÁTICO",
+               "numeroLista":1,
+               "logo":"pathImgFile"
+            },
+            {
+               "nombre":"UNIDAD POPULAR",
+               "numeroLista":2,
+               "logo":"pathImgFile"
+            },
+            {
+               "nombre":"IZQUIERDA DEMOCRÁTICA",
+               "numeroLista":12,
+               "logo":"pathImgFile"
+            },
+            {
+               "nombre":"PACHAKUTIK",
+               "numeroLista":18,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0913909014",
+            "nombre":"PACO MONCAYO",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0904434115",
+            "nombre":"MONSERRAT BUSTAMANTE",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0901498667",
+               "nombre":"HUMBERT PHILIP OLIVER ALOYSIUS",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0920452308",
+               "nombre":"REENE JULIANA CORI LORELLE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0904003787",
+               "nombre":"GODFREY JAMIE LAYTON LEO",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0911336782",
+               "nombre":"MARYLOU LORINDA KALEY VALORIE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0907865885",
+               "nombre":"HAMMOND CARY ELLERY JUDE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0905911400",
+               "nombre":"CANDY MAREE ROSALEEN LECIA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0913099289",
+               "nombre":"PERCIVAL SEBASTIAN PEYTON ZACKERY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0924260474",
+               "nombre":"JAMI LOGAN ESMÉ CORINNE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"partido",
+         "grupos":[
+            {
+               "nombre":"SOCIEDAD PATRIÓTICA 21 DE ENERO",
+               "numeroLista":3,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0911414829",
+            "nombre":"PATRICIO ZUQUILANDA",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0909594004",
+            "nombre":"JOHNNIE JORGGE ÁLAVA",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0911127629",
+               "nombre":"DAVIE PETER CRAWFORD CLARENCE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0914656566",
+               "nombre":"APRIL LETTY LAURENE EARLENE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0905987061",
+               "nombre":"TERRELL AVERY ULRIC DACRE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0912950433",
+               "nombre":"RUTHIE TAMSIN KASEY NYREE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0909672479",
+               "nombre":"MALONE GREY BOB BRISTOL",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0905888988",
+               "nombre":"MONIQUE SADIE CONNIE SHELIA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0909924029",
+               "nombre":"FRANKLYN JAKE DEACON REGGIE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0926037607",
+               "nombre":"HATTY JACKLYN CHANTÉ LESLY",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"movimiento",
+         "grupos":[
+            {
+               "nombre":"FUERZA COMPROMISO SOCIAL",
+               "numeroLista":5,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0918814484",
+            "nombre":"IVÁN ESPINEL",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0926388976",
+            "nombre":"DORIS QUIROZ",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0909825564",
+               "nombre":"DEX BIFF FERDY WILLARD",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0917571218",
+               "nombre":"NAOMI HYACINTH TERRY LEOLA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0909053860",
+               "nombre":"BOYD FRANK PROSPER DALY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0915862544",
+               "nombre":"KATIE PATRICIA SILVIA JULIA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0918581992",
+               "nombre":"GEORGIE WOODY FLOYD ROCKY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0925999674",
+               "nombre":"LIZZIE MYRANDA PRUNELLA MELODY",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0909553943",
+               "nombre":"KENNEDY CONNER MALCOLM WRIGHT",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0924267610",
+               "nombre":"ROXANA TORY ALEA ULYSSA",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"partido",
+         "grupos":[
+            {
+               "nombre":"SOCIAL CRISTIANO MADERA DE GUERRERO",
+               "numeroLista":6,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0908037203",
+            "nombre":"CYNTHIA VITERI",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0913304135",
+            "nombre":"MAURICIO POZO",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0909375610",
+               "nombre":"ORVAL PAYTON LONDON TOLLY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0913751186",
+               "nombre":"PATRICE KATRINA STACY CONSTANCE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0920367885",
+               "nombre":"DONNIE STEPH MARK STEWART",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0906827472",
+               "nombre":"RAIN JAYLA KATHERINA VIVYAN",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0916557200",
+               "nombre":"EVERARD SHAD OMAR ALLYN",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0922327499",
+               "nombre":"AUGUSTA KATHLYN REGAN MIRANDA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0916712375",
+               "nombre":"RODNEY MANSEL DACRE LINDON",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0920924081",
+               "nombre":"ANDREA KIMBERLEE LAVONNE NARELLE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"partido",
+         "grupos":[
+            {
+               "nombre":"FUERZA ECUADOR",
+               "numeroLista":10,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0919697409",
+            "nombre":"ABDALÁ BUCARAM PULLEY",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0921712238",
+            "nombre":"RAMIRO AGUILAR",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0919773903",
+               "nombre":"TUCKER DIRK FREDDY ALLEN",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0925641433",
+               "nombre":"LYNDA ALLISON ZANNA MARALYN",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0923379432",
+               "nombre":"FLYNN WALDO BRYAN EDDIE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0919164061",
+               "nombre":"LOU ROSA ELIZABETH EDWENA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0924048192",
+               "nombre":"JACK TOMMY ADAIR LACEY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0917773392",
+               "nombre":"DELILAH CHERILYN MERLETTA JAYMA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0924513278",
+               "nombre":"HARVEY UPTON ROLAND BAZ",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0923583215",
+               "nombre":"BRENNA MINDY NICHOLE LORRAINE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"movimiento",
+         "grupos":[
+            {
+               "nombre":"UNIÓN ECUATORIANA",
+               "numeroLista":19,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"0924836547",
+            "nombre":"WASHINGTON PESÁNTEZ",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"0919238345",
+            "nombre":"ÁLEX ALCÍVAR",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"0909097040",
+               "nombre":"ROSS LEIGH LAWSON GERMAN",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0909134496",
+               "nombre":"MONICA JOHNA ALEAH ADELINE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"1310034119",
+               "nombre":"THORNTON KIP TYLOR ALPHA",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"2000062139",
+               "nombre":"SHAE DORIA WREN DANIELLE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"2000048179",
+               "nombre":"WELDON LOUIS CLAUDE WILFORD",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"1002661732",
+               "nombre":"AVICE KATHERYNE JENN CORA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"1306221373",
+               "nombre":"SHAYNE EMORY JUSTICE MONTE",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"2000056743",
+               "nombre":"FLORRIE MERIEL ALANNIS MACKENZIE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"alianza",
+         "grupos":[
+            {
+               "nombre":"CREO",
+               "numeroLista":21,
+               "logo":"pathImgFile"
+            },
+            {
+               "nombre":"SUMA",
+               "numeroLista":23,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"1715362255",
+            "nombre":"GUILLERMO LASSO",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"1104418833",
+            "nombre":"ANDRÉS PÁEZ",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"2000050902",
+               "nombre":"ORVAL GROVER TENNYSON BRISTOL",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"2000052601",
+               "nombre":"KEELY ALLIE NITA DIONE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"0802579953",
+               "nombre":"PATTON MARTY BURTON CAIDEN",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0104321666",
+               "nombre":"ANEMONE WISDOM RAINE DEMETRIA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"1716386964",
+               "nombre":"HOWARD GEORDIE FINLAY LEROY",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0103666574",
+               "nombre":"KAETY LISA TATIANA SHAUNA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"0904434115",
+               "nombre":"AUGUST ELWOOD JEFFERY CORBIN",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"1716633696",
+               "nombre":"SHARALYN MANDI GARNETT GUSSIE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "tipo":"movimiento",
+         "grupos":[
+            {
+               "nombre":"ALIANZA PAÍS, PATRIA ALTIVA Y SOBERANA",
+               "numeroLista":35,
+               "logo":"pathImgFile"
+            }
+         ],
+         "presidente":{
+            "cedula":"1713062790",
+            "nombre":"LENÍN MORENO",
+            "foto":"pathImgFile"
+         },
+         "vicepresidente":{
+            "cedula":"1715990576",
+            "nombre":"JORGE GLAS",
+            "foto":"pathImgFile"
+         },
+         "representantesParlamentoAndino":[
+            {
+               "cedula":"1802005148",
+               "nombre":"THURSTAN STUART LANNY JEZ",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"1708266588",
+               "nombre":"KATHARINE BETHANIE KHLOE LIVIA",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasGuayas":[
+            {
+               "cedula":"1708017437",
+               "nombre":"ERICK CAVAN MARMADUKE JOHNATHON",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0603189812",
+               "nombre":"MARNIE MARISSA TRISTEN WINNIFRED",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasNacionales":[
+            {
+               "cedula":"0802018127",
+               "nombre":"SEYMOUR JOSH TOLLY CECIL",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"0802137281",
+               "nombre":"ROMAINE LINZI BRANDIE ROSIE",
+               "foto":"pathImgFile"
+            }
+         ],
+         "asambleistasExterior":[
+            {
+               "cedula":"1307336113",
+               "nombre":"JAMES SHAWN NIK TRANTER",
+               "foto":"pathImgFile"
+            },
+            {
+               "cedula":"1801702349",
+               "nombre":"ELFLEDA CHRISTABELLE DEBRA EARNESTINE",
+               "foto":"pathImgFile"
+            }
+         ]
+      }
+   ]
+}

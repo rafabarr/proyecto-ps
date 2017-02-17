@@ -1,0 +1,60 @@
+{
+   "registroVotos":[
+        {
+            "cedulaVotante":"0501974158",
+            "binomio":"[Blanco/Nulo]"
+        },
+        {
+            "cedulaVotante":"1712596988",
+            "binomio":"[Blanco/Nulo]"
+        },
+        {
+            "cedulaVotante":"1708234669",
+            "binomio":"PACO MONCAYO, MONSERRAT BUSTAMANTE"
+        },
+        {
+            "cedulaVotante":"1307374676",
+            "binomio":"PATRICIO ZUQUILANDA, JOHNNIE JORGGE ÁLAVA"
+        },
+        {
+            "cedulaVotante":"1103054605",
+            "binomio":"IVÁN ESPINEL, DORIS QUIROZ"
+        },
+        {
+            "cedulaVotante":"1800027292",
+            "binomio":"CYNTHIA VITERI, MAURICIO POZO"
+        },
+        {
+            "cedulaVotante":"1201162003",
+            "binomio":"ABDALÁ BUCARAM PULLEY, RAMIRO AGUILAR"
+        },
+        {
+            "cedulaVotante":"1302536543",
+            "binomio":"WASHINGTON PESÁNTEZ, ÁLEX ALCÍVAR"
+        },
+        {
+            "cedulaVotante":"1103087795",
+            "binomio":"GUILLERMO LASSO, ANDRÉS PÁEZ"
+        },
+        {
+            "cedulaVotante":"1702403005",
+            "binomio":"GUILLERMO LASSO, ANDRÉS PÁEZ"
+        },
+        {
+            "cedulaVotante":"1102771142",
+            "binomio":"GUILLERMO LASSO, ANDRÉS PÁEZ"
+        },
+        {
+            "cedulaVotante":"1712579612",
+            "binomio":"LENÍN MORENO, JORGE GLAS"
+        },
+        {
+            "cedulaVotante":"1715761076",
+            "binomio":"LENÍN MORENO, JORGE GLAS"
+        },
+        {
+            "cedulaVotante":"1713439600",
+            "binomio":"LENÍN MORENO, JORGE GLAS"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+   "usuarios":[
+      {
+         "administradores":[
+            {
+               "usuario":"admin01",
+               "clave":"admin01",
+               "cedula":"0914382072",
+               "fechaNacimiento":"1991-02-12",
+               "nombres":"LUKE SIMON",
+               "apellidos":"ADAM MACKENZIE",
+               "foto":"pathImgFile"
+            }
+         ]
+      },
+      {
+         "encuestadores":[
+            {
+               "usuario":"encu01",
+               "clave":"encu01",
+               "cedula":"0922386487",
+               "fechaNacimiento":"1958-09-10",
+               "nombres":"DARIAN DEVEN",
+               "apellidos":"BARRET EMMETT",
+               "foto":"pathImgFile"
+            },
+            {
+               "usuario":"encu02",
+               "clave":"encu02",
+               "cedula":"0915315576",
+               "fechaNacimiento":"1965-03-14",
+               "nombres":"IRIS PHILIPPA",
+               "apellidos":"TAYLER LILAC",
+               "foto":"pathImgFile"
+            }
+         ]
+      }
+   ]
+}
