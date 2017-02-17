@@ -37,13 +37,13 @@ app.get('/listUsuarios', function (req, res) {
     [03]
 */
 
-app.post('/saveUser', function (req, res) {});
+app.post('/saveUser/:index', function (req, res) {});
 
 /*
     [04]
 */
 
-app.delete('/deleteUser', function (req, res) {});
+app.delete('/deleteUser/:index', function (req, res) {});
 
 /*
     [05]
